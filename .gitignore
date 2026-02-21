@@ -1,0 +1,16 @@
+# Datos - No subir archivos pesados
+data/raw/*
+data/processed/*
+!data/.gitkeep
+
+# Entornos virtuales
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Archivos de sistema y VS Code
+.DS_Store
+.vscode/
