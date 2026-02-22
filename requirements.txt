@@ -5,3 +5,4 @@ seaborn
 scipy
 openpyxl
 ipykernel
+scikit-learn
